@@ -1,4 +1,4 @@
-# Binary, Hex, and ASCII
+# Binary, and Hex
 ---
 This chapter is theory. We will practice arithmetic and understand how the different number systems work and why we use them, no code just yet.
 * [1.1 Number Systems](#11-what-are-number-systems)
